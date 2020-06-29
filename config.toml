@@ -6,6 +6,7 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 googleAnalytics = "UA-90755326-1"
 
+
 [params]
     shortbio = "Associate Professor of Development Economics, University of East Anglia"
     logo = "portrait.jpg"
