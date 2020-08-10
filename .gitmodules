@@ -6,3 +6,7 @@
 	path = ,
 	url = https://github.com/paulclist/paulclist.github.io
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/paulclist/paulclist.github.io.git
+	branch = master
