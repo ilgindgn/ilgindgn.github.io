@@ -17,7 +17,7 @@ My work on **Payment by Results** in International Development has helped shaped
 A multi-year consultancy with ITAD, providing quality assurance and limited expert input. Evaluation of Payment by Results (ELVAR) for DFID’s Core Funding to UN Development, UN Humanitarian, and Red Cross & Red Crescent Movement agencies. [For more see ITAD](https://www.itad.com/project/evaluation-learning-and-verification-for-agency-reform-elvar/)
 
 **Evaluating Results-Based Financing, 2019-2020**
-A short consultancy for Mokoro providing quality assurance and limited expert input. The project is for *World Bank Evaluating Results-Based Financing in the Education Sector: Country Level Analysis*, and looks t three countries.
+A short consultancy for Mokoro providing quality assurance and limited expert input. The project is for *World Bank Evaluating Results-Based Financing in the Education Sector: Country Level Analysis*, and looks at three countries.
 
 **Review of Payment by Results in DFID: Establishing the Evidence Base, 2017**
 A four month consultancy conducting a semi-systematic review of evidence of Payment by Results in International Development, and an investigation of how PBR evidence has been used within DFID. With colleagues at UEA, including [Maren Duvendack](https://www.uea.ac.uk/international-development/people/profile/m-duvendack) and [Brendan Whitty](https://uk.linkedin.com/in/brendanwhitty).

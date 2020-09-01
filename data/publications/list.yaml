@@ -1,5 +1,18 @@
 works:
 
+- title: "Development Aid & International Migration to Italy: Does Aid Reduce Irregular Flows?"
+  pdflink: "https://doi.org/10.1111/twec.13017"
+  book: "The World Economy, Forthcoming"
+  coauthors: "Gabriele Restelli"
+  links:
+    - url: "https://www.economist.com/middle-east-and-africa/2020/08/29/the-idea-that-aid-and-development-slow-migration-is-wrong"
+      text: "Coverage in The Economist"
+    - url: "http://hummedia.manchester.ac.uk/institutes/gdi/research/Restelli-Migration.pdf"
+      text: "Policy Brief (2 pages)"
+  abstract: >
+      In recent years, donors have claimed to tackle the root causes of migration from low‐income countries using aid. While others have studied the effects of aid on regular migration, we test whether aid deters irregular migration to Italy using two innovative dependent variables: asylum applications and apprehensions at border. For asylum applications, the largest significant effect size implies we should expect one extra application for an additional $162,000 in bilateral aid. For border crossings, the only significant effect implies the marginal cost in bilateral aid is $1.8 million per deterred migrant. The conclusion that effect sizes are small is robust to different types of aid, measures of migration and various controls. We find robust evidence that irregular migration flows are significantly affected by conflict, poverty, and the pre‐existing stocks from that country. Comparing our results to the existing aid‐migration literature, we find similar effect sizes. The cost per deterred (regular) migrant is in the range $4‐7 million. Statistically significant estimates for the effect of aid on regular migration are only found for sub‐samples or specific specifications. In short, aid does not deter regular or irregular migration, so should be used for other purposes.
+
+
 - title: "Payment by results in international development: Evidence from the first decade"
   pdflink: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/dpr.12405"
   book: "Development Policy Review, 37(6):719-734, 2019"
