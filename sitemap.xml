@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>paulclist.github.io/hidden/</loc>
+    <loc>/hidden/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>paulclist.github.io/sections/aboutme/</loc>
+    <loc>/sections/aboutme/</loc>
   </url>
   
   <url>
-    <loc>paulclist.github.io/sections/assorted/</loc>
+    <loc>/sections/assorted/</loc>
   </url>
   
   <url>
-    <loc>paulclist.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>paulclist.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>paulclist.github.io/sections/policy/</loc>
+    <loc>/sections/policy/</loc>
   </url>
   
   <url>
-    <loc>paulclist.github.io/sections/</loc>
+    <loc>/sections/</loc>
   </url>
   
   <url>
-    <loc>paulclist.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
