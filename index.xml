@@ -3,7 +3,7 @@
   <channel>
     <title>Homepage on Paul Clist</title>
     <link>/</link>
-    <description>Recent content in Homepage on Paul Clist</description>
+    <description>Recent content in Homepage on Ilgin Dogan</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
@@ -20,29 +20,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/aboutme/</guid>
-      <description>I&amp;rsquo;m a development economist at the University of East Anglia, UK. I received my PhD from the University of Nottingham in 2010, working on development aid supervised by Oliver Morrissey. I then held a two-year ESRC postdoc at UEA, before joining as faculty. In aid, I have published on allocation, migration, taxation, and payment by results.
-I now mainly use experimental and behavioural economics to study decision making, often with the help of The Field Lab, Uganda.</description>
+      <description>I am a Ph.D. candidate in Industrial Engineering and Operations Research (IEOR) <a href = https://ieor.berkeley.edu/at target="blank"> the University of California, Berkeley (UCB). My academic advisors are Anil Aswani <a href = https://aswani.ieor.berkeley.edu/ target="blank"> and Zuo-Jun Max Shen <a href = https://shen.ieor.berkeley.edu/  target="blank">. Prior to joining UCB, I received B.S. and M.S. degrees in Industrial Engineering at the Middle East Technical University.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>/sections/assorted/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sections/assorted/</guid>
-      <description>Website: This website was built using Hugo, relying heavily on Gautam Rao and Stefanie Stantcheva&amp;rsquo;s code. Feel free to copy my code, which you can find on my github site (links on the left).</description>
-    </item>
-    
-    <item>
-      <title>Policy</title>
-      <link>/sections/policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sections/policy/</guid>
-      <description>My work on Payment by Results in International Development has helped shaped policy and practice, especially in the UK. This happened somewhat by accident, with relevant academic papers leading to consultancy work, which now lead to more academic papers. For a quick introduction to my thinking for a general audience, see:
-My first and second posts on Duncan Green&amp;rsquo;s From Poverty to Power blog
-A summary describing 12 principles, co-authored with Stefan Dercon, 2014</description>
-    </item>
+
     
   </channel>
 </rss>
