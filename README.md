@@ -1,6 +1,6 @@
 
-# [Paul Clist's Website](https://paulclist.github.io)
+# [Ilgin Dogan's Personal Website](https://ilgindgn.github.io)
 
 
 **Website:**
-This website was built using Hugo, relying heavily on [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io) and [Stefanie Stantcheva's](https://github.com/cschesch/stefanie-stantcheva)  code. Feel free to copy my code.
+This was forked from Paul Clist. 
