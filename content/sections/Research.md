@@ -8,7 +8,7 @@ My research focuses on designing adaptive approaches with strong theoretical and
 
 **Ilgin Dogan**, Anil Aswani, and Zuo-Jun Max Shen. Data-Driven Incentives for Repeated Principal-Agent Models with Unobserved Rewards: Agent with Imperfect Knowledge. *Preprint.*   
 
-Yoon Lee, **Ilgin Dogan**, Anil Aswani, and Zuo-Jun Max Shen. Incorporating Fairness into Incentive Design in Principal-Agent Models with Adverse Selection and Moral Hazard. *Preprint.* 
+Yoon Lee, **Ilgin Dogan**, Anil Aswani, and Zuo-Jun Max Shen. Incorporating Fairness into Incentive Design in Principal-Agent Models with Adverse Selection and Moral Hazard. *Working paper.* 
 
 **Ilgin Dogan**, Anil Aswani, and Zuo-Jun Max Shen. [Regret Analysis of Learning-Based MPC with Partially-Unknown Cost Function](https://arxiv.org/abs/2108.02307). *Under revision for IEEE Transactions on Automatic Control.* 
 
