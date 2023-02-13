@@ -5,15 +5,11 @@
     <loc>/hidden/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/sections/aboutme/</loc>
-  </url><url>
-    <loc>/sections/assorted/</loc>
+    <loc>/sections/AboutMe/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/</loc>
-  </url><url>
-    <loc>/sections/policy/</loc>
   </url><url>
     <loc>/sections/</loc>
   </url><url>
