@@ -7,11 +7,19 @@
   </url><url>
     <loc>/sections/AboutMe/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/sections/News/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>/sections/Research/</loc>
   </url><url>
-    <loc>/sections/</loc>
+    <loc>/sections/Industry/</loc>
+  </url><url>
+    <loc>/sections/Teaching/</loc>
+  </url><url>
+    <loc>/sections/Awards/</loc>
+  </url><url>
+    <loc>/sections/Services/</loc>
+  </url><url>
+    <loc>/sections/Resume/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
