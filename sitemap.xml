@@ -5,7 +5,7 @@
     <loc>./hidden/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>./sections/AboutMe/</loc>
+    <loc>https://ilgindgn.github.io/content/sections/AboutMe.md/</loc>
   </url>
   </url><url>
     <loc>./tags/</loc>
