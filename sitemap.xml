@@ -6,20 +6,7 @@
     <priority>0</priority>
   </url><url>
     <loc>/sections/AboutMe/</loc>
-  </url><url>
-    <loc>/sections/News/</loc>
-  </url><url>
-    <loc>/sections/Research/</loc>
-  </url><url>
-    <loc>/sections/Industry/</loc>
-  </url><url>
-    <loc>/sections/Teaching/</loc>
-  </url><url>
-    <loc>/sections/Awards/</loc>
-  </url><url>
-    <loc>/sections/Services/</loc>
-  </url><url>
-    <loc>/sections/Resume/</loc>
+  </url>
   </url><url>
     <loc>/tags/</loc>
   </url>
