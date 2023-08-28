@@ -287,7 +287,11 @@ ul {
   text-align: justify;
 }
 
-li {height: 30px;}
+
+
+ul > li{
+    margin-bottom: 20px;
+}
 
 .btn {
   background-color: white;
