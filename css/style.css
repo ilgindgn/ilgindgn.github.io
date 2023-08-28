@@ -278,8 +278,8 @@ h3 + ul {
     margin-top: -10px;
 }
 
-.donotshrinkbtwpandh3 {
-  margin: 0 0 25px;
+.donotshrinkbtwpandh3 + h3{
+  margin: 20px 0 20px;
 }
 
 .btn {
