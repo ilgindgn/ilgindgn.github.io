@@ -282,6 +282,10 @@ h3 + ul {
   margin: 20px 0 20px;
 }
 
+ul {text-align: justify}
+ul::after {width: 100%; display: inline-block; content: "."; visibility: hidden}
+li {display: inline-block}
+
 .btn {
   background-color: white;
   border: solid;
