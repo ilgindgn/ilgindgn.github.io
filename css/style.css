@@ -288,7 +288,7 @@ ul {
 }
 
 li.menu-item:not(:last-child) { 
-   margin-bottom: 3px;  
+   margin-bottom: 10px;  
 }
 
 .btn {
