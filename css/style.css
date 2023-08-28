@@ -296,7 +296,7 @@ h3 + ul {
 }
 
 link {
-  display: inline;
+  display: inline-flex;
 }
 
 p.contactinfo {
