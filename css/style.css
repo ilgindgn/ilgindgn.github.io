@@ -259,7 +259,11 @@ ul + ul {
 }
 
 h3 + p {
-    margin-top: -15px;
+    margin-top: -10px;
+}
+
+h3 + ul {
+    margin-top: -10px;
 }
 
 p.contactinfo {
