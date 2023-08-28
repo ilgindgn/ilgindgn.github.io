@@ -282,8 +282,11 @@ h3 + ul {
   margin: 20px 0 20px;
 }
 
-ul {text-align: justify}
-
+ul {
+  padding-left: 1.2em;
+  text-align: justify;
+  list-style-type: circle;
+}
 
 .btn {
   background-color: white;
