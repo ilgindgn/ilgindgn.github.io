@@ -283,8 +283,7 @@ h3 + ul {
 }
 
 ul {text-align: justify}
-ul::after {width: 100%; display: inline-block; content: "."; visibility: hidden}
-li {display: inline-block}
+
 
 .btn {
   background-color: white;
