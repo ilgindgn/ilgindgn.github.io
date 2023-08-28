@@ -287,10 +287,8 @@ ul {
   text-align: justify;
 }
 
-
-
 ul > li{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .btn {
