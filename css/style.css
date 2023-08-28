@@ -324,7 +324,7 @@ p img.octicons {
 .sidebar {
    display: flex;
    align-items: center;
-   justify-content: center;
+   
 }
 
 p span.hideit {
