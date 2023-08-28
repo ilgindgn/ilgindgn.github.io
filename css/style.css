@@ -295,6 +295,10 @@ h3 + ul {
   background-color: lightcyan;
 }
 
+link {
+  display: inline;
+}
+
 p.contactinfo {
   margin: 0 0 10px; }
 
