@@ -287,11 +287,7 @@ ul {
   text-align: justify;
 }
 
-li {height: 50px;}
-
-li.menu-item:not(:last-child) { 
-   margin-bottom: 18px;  
-}
+li {height: 30px;}
 
 .btn {
   background-color: white;
