@@ -270,14 +270,10 @@ h3 + ul {
     margin-top: -10px;
 }
 
-div{
-  margin-left: 40vw;
-}
-
 .btn {
   background-color: white;
   border: none;
-  color: blue;
+  color: darkturquoise;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -285,7 +281,7 @@ div{
 }
 
 .btn:hover {
-  background-color: darkturquoise;
+  background-color: lightcyan;
 }
 
 p.contactinfo {
@@ -331,11 +327,11 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a {
-  color: #267CB9;
+  color: darkturquoise;
   text-decoration: none; }
 
 a:hover, a:focus {
-  color: #046; }
+  color: lightcyan; }
 
 a small {
   font-size: 11px;
