@@ -262,6 +262,10 @@ h3 + p {
     margin-top: -10px;
 }
 
+h3 + .donotshrink { 
+  margin: 0 0 20px;
+}
+  
 h3 + ul {
     margin-top: -10px;
 }
