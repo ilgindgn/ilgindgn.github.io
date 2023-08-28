@@ -301,9 +301,9 @@ ul > li{
   color: darkcyan;
   padding: 8px 12px;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 19px;
   text-align: center;
-  height: 1em;
+  height: 0.9em;
 }
 
 .btn:hover {
