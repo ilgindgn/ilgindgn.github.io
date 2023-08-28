@@ -276,8 +276,8 @@ h3 + ul {
   color: darkcyan;
   padding: 12px 30px;
   cursor: pointer;
-  font-size: 20px;
-  border-radius: 5px;
+  font-size: 15px;
+  border-radius: 3px;
 }
 
 .btn:hover {
@@ -331,7 +331,7 @@ a {
   text-decoration: none; }
 
 a:hover, a:focus {
-  color: lightcyan; }
+  color: darkblue; }
 
 a small {
   font-size: 11px;
