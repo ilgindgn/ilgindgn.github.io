@@ -318,8 +318,13 @@ p img.octicons {
   align-self: center;
   position: relative;
   height: 1.8em;
-  text-align: center;
   font-size: 1.5em;}
+
+.sidebar {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
 
 p span.hideit {
   display: none; }
