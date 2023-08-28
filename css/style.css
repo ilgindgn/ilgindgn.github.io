@@ -278,6 +278,10 @@ h3 + ul {
     margin-top: -10px;
 }
 
+.donotshrinkbtwpandh3 {
+  margin: 0 0 20px;
+}
+
 .btn {
   background-color: white;
   border: solid;
