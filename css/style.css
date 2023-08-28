@@ -262,7 +262,7 @@ h3 + p {
     margin-top: -10px;
 }
 
-p + h3 { 
+p + .donotshrinkh3 { 
   margin: 0 0 20px;
 }
 
