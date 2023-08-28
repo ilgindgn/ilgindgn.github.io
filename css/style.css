@@ -226,7 +226,7 @@
   font-weight: bold; }
 
 .highlight .o {
-  color: #000000;
+  color: #000000;f
   font-weight: bold; }
 
 .highlight .w {
@@ -254,7 +254,7 @@ p + ul {
     margin-top: -15px;
 }
 
-ul + ul {
+ul + p {
     margin-top: -15px;
 }
 
@@ -272,8 +272,8 @@ h3 + ul {
 
 .btn {
   background-color: white;
-  border: none;
-  color: darkturquoise;
+  border: solid;
+  color: darkcyan;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -327,7 +327,7 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a {
-  color: darkturquoise;
+  color: darkcyan;
   text-decoration: none; }
 
 a:hover, a:focus {
