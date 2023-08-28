@@ -254,6 +254,14 @@ p + ul {
     margin-top: -15px;
 }
 
+ul + ul {
+    margin-top: -15px;
+}
+
+h3 + p {
+    margin-top: -15px;
+}
+
 p.contactinfo {
   margin: 0 0 10px; }
 
