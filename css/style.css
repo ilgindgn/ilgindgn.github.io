@@ -278,6 +278,9 @@ h3 + .donotshrink {
   margin: 0 0 15px;
 }
 
+.donotshrink + p { 
+  margin: 0 0 2px;
+}
 
   
 h3 + ul {
