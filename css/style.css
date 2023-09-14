@@ -261,6 +261,7 @@ ul + p {
 ul + .teachingsameschool {
     margin-top: -11px;
 }
+p + p {margin-top: -10px; }
 
 h3 + p {
     margin-top: -10px;
