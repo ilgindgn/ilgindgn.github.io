@@ -275,13 +275,8 @@ p + h3 {
 }
 
 h3 + .donotshrink { 
-  margin: 0 0 15px;
+  margin: 0 0 17px;
 }
-
-.donotshrink + p { 
-  margin: 0 0 2px;
-}
-
   
 h3 + ul {
     margin-top: -10px;
