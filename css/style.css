@@ -254,7 +254,7 @@ p + ul {
     margin-top: -15px;
 }
 
-p + .courselist {
+.courselist + .courselist {
     margin-top: -7px;
 }
 
