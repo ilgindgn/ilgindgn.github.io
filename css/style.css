@@ -304,6 +304,9 @@ h3 + ul {
 .courselist > li{
     margin-bottom: -6px;
 }
+.courselist + h3{
+  margin-top: 3px;
+}
 
 ul {
   padding-left: 1.7em;
