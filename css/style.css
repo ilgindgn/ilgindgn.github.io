@@ -248,7 +248,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px; }
 
 h1 + h2 {
-  margin: 3px 0 20px;
+  margin: 5px 0 20px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -259,7 +259,7 @@ p + ul {
 }
 
 .courselist + .courselist {
-    margin-top: -12px;
+    margin-top: -15px;
 }
 
 p + .courselist {
@@ -291,7 +291,7 @@ h3 + .donotshrink {
 }
 
 h3 + .donotshrink2 { 
- margin-top: -3px;
+ margin-top: -5px;
 }
 
 h3 + ul {
