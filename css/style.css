@@ -305,6 +305,10 @@ h3 + ul {
   margin: 20px 0 20px;
 }
 
+.courselist > li{
+    margin-bottom: 2px;
+}
+
 ul {
   padding-left: 1.7em;
   text-align: justify;
