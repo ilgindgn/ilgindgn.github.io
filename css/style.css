@@ -279,8 +279,7 @@ p + p {
 }
 
 .student + .student {
-  margin-top: -16px; 
-}
+  margin-top: -16px; }
 
 h3 + p {
     margin-top: -10px;
