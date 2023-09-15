@@ -266,7 +266,7 @@ p + p {
   margin-top: -10px; 
 }
 
-p + .student {
+.student + .student {
   margin-top: -11px; 
 }
 
