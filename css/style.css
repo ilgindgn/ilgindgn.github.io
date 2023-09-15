@@ -279,7 +279,7 @@ p + p {
 }
 
 .student + .student {
-  margin-top: -16px; }
+  margin-top: -14px; }
 
 h3 + p {
     margin-top: -10px;
@@ -306,7 +306,7 @@ h3 + ul {
 }
 
 .courselist > li{
-    margin-bottom: -5px;
+    margin-bottom: -6px;
 }
 
 ul {
