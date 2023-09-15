@@ -306,7 +306,7 @@ h3 + ul {
 }
 
 .courselist > li{
-    margin-bottom: 2px;
+    margin-bottom: -5px;
 }
 
 ul {
