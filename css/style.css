@@ -254,12 +254,12 @@ p + ul {
     margin-top: -15px;
 }
 
-ul + p {
-    margin-top: -6px;
+p + .courselist {
+    margin-top: -10px;
 }
 
-ul + .teachingsameschool {
-    margin-top: -11px;
+ul + p {
+    margin-top: -6px;
 }
 
 p + p {
@@ -277,7 +277,11 @@ p + h3 {
 h3 + .donotshrink { 
   margin: 0 0 17px;
 }
-  
+
+h3 + .donotshrink2 { 
+  margin: 0 0 12px;
+}
+
 h3 + ul {
     margin-top: -10px;
 }
