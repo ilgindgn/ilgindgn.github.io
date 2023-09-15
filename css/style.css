@@ -255,7 +255,7 @@ p + ul {
 }
 
 .courselist + .courselist {
-    margin-top: -7px;
+    margin-top: -11px;
 }
 
 p + .courselist {
