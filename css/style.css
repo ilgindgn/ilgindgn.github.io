@@ -248,7 +248,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px; }
 
 h1 + h2 {
-  margin: 10px 0 20px;
+  margin-top: 15px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -274,6 +274,9 @@ p + p {
   margin-top: -10px; 
 }
 
+.student + li {
+  margin-top: -10px; 
+}
 .student + .student {
   margin-top: -16px; 
 }
