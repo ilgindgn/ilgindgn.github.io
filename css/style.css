@@ -258,6 +258,10 @@ p + ul {
     margin-top: -7px;
 }
 
+p + .courselist {
+    margin-top: -10px;
+}
+
 ul + p {
     margin-top: -6px;
 }
@@ -283,7 +287,7 @@ h3 + .donotshrink {
 }
 
 h3 + .donotshrink2 { 
-  margin: 0 0 13px;
+ margin-top: -2px;
 }
 
 h3 + ul {
