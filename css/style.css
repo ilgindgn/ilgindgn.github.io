@@ -274,10 +274,6 @@ p + p {
   margin-top: -10px; 
 }
 
-.student + li {
-  margin-top: -30px; 
-}
-
 .student + .student {
   margin-top: -14px; }
 
