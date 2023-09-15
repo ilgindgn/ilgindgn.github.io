@@ -266,6 +266,10 @@ p + p {
   margin-top: -10px; 
 }
 
+p + .student {
+  margin-top: -11px; 
+}
+
 h3 + p {
     margin-top: -10px;
 }
@@ -279,7 +283,7 @@ h3 + .donotshrink {
 }
 
 h3 + .donotshrink2 { 
-  margin: 0 0 15px;
+  margin: 0 0 14px;
 }
 
 h3 + ul {
